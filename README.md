@@ -19,5 +19,5 @@ Maintenant que notre dépôt local pointe sur le dépôt distant, nous allons c
 5. changer de branche
 # git checkout nomDeLaBranche
 
-6. Realiser un commite
+6. Realiser un commit
 # git commit -m “Réalisation de la partie cagnotte côté front end”   
