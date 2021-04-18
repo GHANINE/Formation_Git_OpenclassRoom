@@ -21,3 +21,10 @@ Maintenant que notre dépôt local pointe sur le dépôt distant, nous allons c
 
 6. Realiser un commit
 # git commit -m “Réalisation de la partie cagnotte côté front end”   
+
+7. supprimer une branche 
+# git branch -d nomDeLaBranch
+pour forcer la supperssion # git branch -D brancheTest
+
+8. modifier le message d'un commit
+# git commit --amend -m "Votre nouveau message de commit"
